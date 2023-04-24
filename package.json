@@ -1,0 +1,24 @@
+{
+  "name": "azure-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayayadav2910/node-azure-cli.git"
+  },
+  "author": "@daya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayayadav2910/node-azure-cli/issues"
+  },
+  "homepage": "https://github.com/dayayadav2910/node-azure-cli#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
